@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1636146919 source:c:\users\user\documents\c\laborok\9. labor\9. labor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+
+1636129104 c:\users\user\documents\c\laborok\9. labor\9. labor\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
