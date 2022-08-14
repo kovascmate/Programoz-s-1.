@@ -1,0 +1,315 @@
+# depslib dependency file v1.0
+1637978828 source:c:\users\user\documents\c\amoba\nagyhf\adatbe.c
+	<stdio.h>
+	<stdbool.h>
+	"adatbe.h"
+	"megjelenites.h"
+	"memory_management.h"
+	"debugmalloc.h"
+	"econio.h"
+
+1636560423 c:\users\user\documents\c\amoba\nagyhf\adatbe.h
+
+1636979484 c:\users\user\documents\c\amoba\nagyhf\megjelenites.h
+
+1636560680 c:\users\user\documents\c\amoba\nagyhf\foglal.h
+
+1636129104 c:\users\user\documents\c\amoba\nagyhf\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1572899188 source:c:\users\user\documents\c\amoba\nagyhf\econio.c
+	"econio.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<assert.h>
+	<assert.h>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<stdbool.h>
+	<sys/time.h>
+	<sys/types.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1557401935 c:\users\user\documents\c\amoba\nagyhf\econio.h
+	<stdbool.h>
+
+1636937215 source:c:\users\user\documents\c\amoba\nagyhf\foglal.c
+	"foglal.h"
+	"debugmalloc.h"
+
+1637606542 source:c:\users\user\documents\c\amoba\nagyhf\main.c
+	"menu.h"
+	"kornyezet.h"
+
+1637977870 c:\users\user\documents\c\amoba\nagyhf\menu.h
+
+1637977941 source:c:\users\user\documents\c\amoba\nagyhf\menu.c
+	"menu.h"
+	"debugmalloc.h"
+	"econio.h"
+	<stdbool.h>
+	<stdio.h>
+	"adatbe.h"
+	"filekezeles.h"
+	"utmutato.h"
+
+1637980963 source:c:\users\user\documents\c\amoba\nagyhf\logika.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"logika.h"
+	"megjelenites.h"
+	"debugmalloc.h"
+	"memory_management.h"
+	"kornyezet.h"
+
+1637521854 c:\users\user\documents\c\amoba\nagyhf\logika.h
+
+1637981245 source:c:\users\user\documents\c\amoba\nagyhf\megjelenites.c
+	<stdio.h>
+	"econio.h"
+	"megjelenites.h"
+	"csomopont.h"
+
+1636564505 source:c:\users\user\documents\c\amoba\nagyhf\kiir.c
+	<stdio.h>
+	"kiir.h"
+	"debugmalloc.h"
+
+1636563964 c:\users\user\documents\c\amoba\nagyhf\kiir.h
+
+1637980390 source:c:\users\user\documents\c\amoba\nagyhf\ellenorzes.c
+	<stdio.h>
+	<stdbool.h>
+	"ellenorzes.h"
+	"kornyezet.h"
+
+1636938771 c:\users\user\documents\c\amoba\nagyhf\ellenorzes.h
+
+1636563442 source:c:\users\user\documents\c\amoba\nagyhf\beol.c
+
+1637981245 source:c:\users\user\documents\c\amoba\nagyhf\utmutato.c
+	<stdio.h>
+	<stdbool.h >
+	"econio.h"
+	"utmutato.h"
+	"menu.h"
+
+1636238023 c:\users\user\documents\c\amoba\nagyhf\utmutato.h
+
+1637980963 source:c:\users\user\documents\c\amoba\nagyhf\filekezeles.c
+	<stdio.h>
+	"filekezeles.h"
+	"debugmalloc.h"
+	"memory_management.h"
+
+1636979615 c:\users\user\documents\c\amoba\nagyhf\filekezeles.h
+
+1637980963 source:c:\users\user\documents\c\amoba\nagyhf\kornyezet.c
+	"kornyezet.h"
+
+1637496522 c:\users\user\documents\c\amoba\nagyhf\kornyezet.h
+
+1637333485 source:c:\users\user\documents\c\amoba\nagyhf\felsz.c
+	"felsz.h"
+	<stdlib.h>
+	<stdio.h>
+	"debugmalloc.h"
+
+1637333485 c:\users\user\documents\c\amoba\nagyhf\felsz.h
+
+1637979839 c:\users\user\documents\c\amoba\nagyhf\csomopont.h
+
+1637980221 source:c:\users\user\documents\c\amoba\nagyhf\csomopont.c
+	<stdio.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"adatbe.h"
+	"ellenorzes.h"
+	"kornyezet.h"
+	"memory_management.h"
+	"logika.h"
+	"csomopont.h"
+	"filekezeles.h"
+	"megjelenites.h"
+	"econio.h"
+	"uj_jatek_szandek.h"
+
+1637420699 source:c:\users\user\documents\c\amoba\nagyhf\fix_move.c
+	"fix_move.h"
+
+1637421187 c:\users\user\documents\c\amoba\nagyhf\fix_move.h
+
+1637523915 c:\users\user\documents\c\amoba\nagyhf\memory_management.h
+
+1637698938 source:c:\users\user\documents\c\amoba\nagyhf\memory_management.c
+	<stdlib.h>
+	<stdio.h>
+	"debugmalloc.h"
+	"memory_management.h"
+
+1637981245 source:c:\users\user\documents\c\amoba\nagyhf\uj_jatek_szandek.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	"econio.h"
+	"uj_jatek_szandek.h"
+
+1637757868 c:\users\user\documents\c\amoba\nagyhf\uj_jatek_szandek.h
+
+1637982428 source:c:\users\user\documents\c\amoba\Új mappa\nagyhf\adatbe.c
+	<stdio.h>
+	<stdbool.h>
+	"adatbe.h"
+	"megjelenites.h"
+	"memory_management.h"
+	"debugmalloc.h"
+	"econio.h"
+
+1636564023 c:\users\user\documents\c\amoba\Új mappa\nagyhf\adatbe.h
+
+1636983084 c:\users\user\documents\c\amoba\Új mappa\nagyhf\megjelenites.h
+
+1637527515 c:\users\user\documents\c\amoba\Új mappa\nagyhf\memory_management.h
+
+1636132704 c:\users\user\documents\c\amoba\Új mappa\nagyhf\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1557405535 c:\users\user\documents\c\amoba\Új mappa\nagyhf\econio.h
+	<stdbool.h>
+
+1637983821 source:c:\users\user\documents\c\amoba\Új mappa\nagyhf\csomopont.c
+	<stdio.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"adatbe.h"
+	"ellenorzes.h"
+	"kornyezet.h"
+	"memory_management.h"
+	"logika.h"
+	"csomopont.h"
+	"filekezeles.h"
+	"megjelenites.h"
+	"econio.h"
+	"uj_jatek_szandek.h"
+
+1636942371 c:\users\user\documents\c\amoba\Új mappa\nagyhf\ellenorzes.h
+
+1637500122 c:\users\user\documents\c\amoba\Új mappa\nagyhf\kornyezet.h
+
+1637525454 c:\users\user\documents\c\amoba\Új mappa\nagyhf\logika.h
+
+1637983439 c:\users\user\documents\c\amoba\Új mappa\nagyhf\csomopont.h
+
+1636983215 c:\users\user\documents\c\amoba\Új mappa\nagyhf\filekezeles.h
+
+1637761468 c:\users\user\documents\c\amoba\Új mappa\nagyhf\uj_jatek_szandek.h
+
+1572902788 source:c:\users\user\documents\c\amoba\Új mappa\nagyhf\econio.c
+	"econio.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<assert.h>
+	<assert.h>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<stdbool.h>
+	<sys/time.h>
+	<sys/types.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1637983990 source:c:\users\user\documents\c\amoba\Új mappa\nagyhf\ellenorzes.c
+	<stdio.h>
+	<stdbool.h>
+	"ellenorzes.h"
+	"kornyezet.h"
+
+1637984563 source:c:\users\user\documents\c\amoba\Új mappa\nagyhf\filekezeles.c
+	<stdio.h>
+	"filekezeles.h"
+	"debugmalloc.h"
+	"memory_management.h"
+
+1637984563 source:c:\users\user\documents\c\amoba\Új mappa\nagyhf\kornyezet.c
+	"kornyezet.h"
+
+1637984563 source:c:\users\user\documents\c\amoba\Új mappa\nagyhf\logika.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"logika.h"
+	"megjelenites.h"
+	"debugmalloc.h"
+	"memory_management.h"
+	"kornyezet.h"
+
+1637610142 source:c:\users\user\documents\c\amoba\Új mappa\nagyhf\main.c
+	"menu.h"
+	"kornyezet.h"
+
+1637981470 c:\users\user\documents\c\amoba\Új mappa\nagyhf\menu.h
+
+1637984845 source:c:\users\user\documents\c\amoba\Új mappa\nagyhf\megjelenites.c
+	<stdio.h>
+	"econio.h"
+	"megjelenites.h"
+	"csomopont.h"
+
+1637702538 source:c:\users\user\documents\c\amoba\Új mappa\nagyhf\memory_management.c
+	<stdlib.h>
+	<stdio.h>
+	"debugmalloc.h"
+	"memory_management.h"
+
+1637981541 source:c:\users\user\documents\c\amoba\Új mappa\nagyhf\menu.c
+	"menu.h"
+	"debugmalloc.h"
+	"econio.h"
+	<stdbool.h>
+	<stdio.h>
+	"adatbe.h"
+	"filekezeles.h"
+	"utmutato.h"
+
+1636241623 c:\users\user\documents\c\amoba\Új mappa\nagyhf\utmutato.h
+
+1637984845 source:c:\users\user\documents\c\amoba\Új mappa\nagyhf\uj_jatek_szandek.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	"econio.h"
+	"uj_jatek_szandek.h"
+
+1637984845 source:c:\users\user\documents\c\amoba\Új mappa\nagyhf\utmutato.c
+	<stdio.h>
+	<stdbool.h >
+	"econio.h"
+	"utmutato.h"
+	"menu.h"
+

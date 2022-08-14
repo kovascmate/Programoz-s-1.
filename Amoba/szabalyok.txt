@@ -1,0 +1,23 @@
+
+					   XO                   OX
+					  XOXO                 OXOX
+					 XOXOXO - -Utmutato - OXOXOX
+					  XOXO                 OXOX
+					   XO                   OX 
+
+XOXOXOXOXOXOXOXOXOXOXOXOXO - Program hasznalata - OXOXOXOXOXOXOXOXOXOXOXOXOX
+ 
+	1. Programot a felajanlot parancs lehetesegek hasznalataval lehet hasznalni.
+	2. Amennyiben a futo jatek kozben a felhasznalo a "kilep" parancsot hasznalja a jatek elmentesre kerul.
+	Program ujboli futatasanal a "Mentett jatek" menupont hasznalataval lehet folytatni a felbehagyott jatekot.
+
+XOXOXOXOXOXOXOXOXOXOXOXOXO - Jatek szabalyok - OXOXOXOXOXOXOXOXOXOXOXOXOX
+
+	1. A jatek soran sorban 4 azonos karaktert kell elhelyezni.
+	2. A jatekot a program kezdi.
+	3. 0sszesen 3 hibas lepest tehet a felhasznalo egymasutan es elveszti a jatekot.
+	4. A megtelt palya a jatek veget jelenti, ebben az esetben nincs gyoztes kihirdetve.
+
+XOXOXOXOXOXOXOXOXOXOXOXOXO - Visszalepes  - OXOXOXOXOXOXOXOXOXOXOXOXOX
+
+	- Visszalepeshez hasznalja a "vissza" parancsot. -
