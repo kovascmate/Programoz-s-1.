@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633096555 source:c:\users\user\documents\c\laborok\4.labor\masodik feladat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

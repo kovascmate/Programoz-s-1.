@@ -1,0 +1,2 @@
+a "sztringet_kiir_1" függvényben a program először kiirta az elso karaktert majd a szöveg többi reszet
+a "sztringet_kiir_2" függvényben a program kiirta az elso karaktert majd meghivta önmagát mégegyszer csak egyel odébbi karakterre mindaddig amíg nem NULL karaktert kapott
